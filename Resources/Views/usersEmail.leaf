@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <title>Hello, Vapor</title>
+    </head>
+    <body>
+        #loop(users, "user") {
+            <h1>Hello, #(user.name) - #(user.email)!</h1>
+        }
+    </body>
+    
+</html>

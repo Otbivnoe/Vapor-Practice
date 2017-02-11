@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="en">
+
+  <head>
     #import("head")
-</head>
-    <body>
-        #import("body")
-    </body>
+  </head>
+  <body>
+    #import("body")
+  </body>
+
 </html>
