@@ -1,6 +1,6 @@
-# Basic Template
-
-A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
+<p align="center">
+  <img src="vapor-logo.jpg" alt="Vapor"/>
+</p>
 
 ## 📖 Documentation
 
@@ -9,7 +9,3 @@ Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for ins
 ## 💧 Community
 
 Join the welcoming community of fellow Vapor developers in [slack](http://vapor.team).
-
-## 🔧 Compatibility
-
-This package has been tested on macOS and Ubuntu.
