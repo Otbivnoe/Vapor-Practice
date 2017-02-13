@@ -10,9 +10,9 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B5B4A55C-535F-42F2-B129-566D3C6A3E91",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "Vapor-practice\/Packages\/Polymorphic-1.0.1\/",
-    "4FE407AC2C82E1BB1D87BC97460DCC6BA3E95471" : "Vapor-practice\/",
-    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "Vapor-practice\/Packages\/Jay-1.0.1\/"
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "Vapor\/Packages\/Polymorphic-1.0.1\/",
+    "4FE407AC2C82E1BB1D87BC97460DCC6BA3E95471" : "Vapor\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "Vapor\/Packages\/Jay-1.0.1\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "vapor-practice",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,

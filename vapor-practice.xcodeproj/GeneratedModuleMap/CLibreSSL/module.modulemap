@@ -1,5 +1,5 @@
 module CLibreSSL {
-    umbrella header "/Users/otbivnoe/Documents/Projects/Vapor-practice/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+    umbrella header "/Users/otbivnoe/Documents/Projects/Vapor/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
     link "CLibreSSL"
     export *
 }
