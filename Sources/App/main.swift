@@ -15,6 +15,14 @@ drop.get("db") { request in
     }
 }
 
+drop.get("delete") { request in
+    try User.all().forEach { user in
+        try user.delete()
+    }
+    return try JSON(User.all().makeNode())
+}
+
+
 drop.get("user") { request in
     var user = User(name: "Nikita")
     try user.save()
